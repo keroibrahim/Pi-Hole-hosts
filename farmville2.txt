@@ -1,11 +1,3 @@
-0.0.0.0 scontent.fcai19-8.fna.fbcdn.net
-0.0.0.0 video.xx.fbcdn.net
-0.0.0.0 edge-mqtt.facebook.com
-0.0.0.0 chat-e2ee-mini.facebook.com
-0.0.0.0 web.facebook.com
-0.0.0.0 graph.fbpigeon.com
-0.0.0.0 scontent.xx.fbcdn.net
-0.0.0.0 lookaside.facebook.com
 0.0.0.0 ads.inmobi.com
 0.0.0.0 rt.applovin.com
 0.0.0.0 cdp.cloud.unity3d.com
