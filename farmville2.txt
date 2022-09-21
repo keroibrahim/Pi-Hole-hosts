@@ -10,3 +10,4 @@
 0.0.0.0 zynga1-a.akamaihd.net
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 zynga.com
