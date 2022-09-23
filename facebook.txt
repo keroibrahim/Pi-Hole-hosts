@@ -887,3 +887,4 @@
 0.0.0.0 gateway.instagram.com
 0.0.0.0 mqtt-mini.facebook.com
 0.0.0.0 portal.fb.com
+0.0.0.0 scontent.faly8-1.fna.fbcdn.net
