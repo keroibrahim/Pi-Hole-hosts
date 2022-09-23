@@ -888,3 +888,4 @@
 0.0.0.0 mqtt-mini.facebook.com
 0.0.0.0 portal.fb.com
 0.0.0.0 scontent.faly8-1.fna.fbcdn.net
+0.0.0.0 video.faly7-1.fna.fbcdn.net
