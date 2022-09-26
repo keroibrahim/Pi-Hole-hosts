@@ -22503,5 +22503,5 @@
 0.0.0.0 fbsbx.com.online-metrix.net
 0.0.0.0 ru-ru.facebook.com
 0.0.0.0 nl-nl.facebook.com
-0.0.0.0 fb.watch^
-0.0.0.0 facebookcorewwwi.onion^
+0.0.0.0 fb.watch
+0.0.0.0 facebookcorewwwi.onion
