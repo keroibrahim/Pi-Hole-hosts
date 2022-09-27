@@ -19409,3 +19409,4 @@
 0.0.0.0 fb.watch
 0.0.0.0 facebookcorewwwi.onion
 0.0.0.0 graph-fallback.facebook.com
+0.0.0.0 scontent.faly8-2.fna.fbcdn.net
