@@ -19408,3 +19408,4 @@
 0.0.0.0 nl-nl.facebook.com
 0.0.0.0 fb.watch
 0.0.0.0 facebookcorewwwi.onion
+0.0.0.0 graph-fallback.facebook.com
