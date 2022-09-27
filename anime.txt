@@ -4,3 +4,4 @@
 0.0.0.0 witanime.com
 0.0.0.0 a.xsanime.com
 0.0.0.0 anime-king.com
+0.0.0.0 animeking-com-1.disqus.com
