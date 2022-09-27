@@ -7,3 +7,8 @@
 0.0.0.0 gateway.instagram.com
 0.0.0.0 instagram.com
 0.0.0.0 pg.cdn.viber.com
+0.0.0.0 https-api.bigolive.tv
+0.0.0.0 api.likee.video
+0.0.0.0 https-api.bigolive.tv
+0.0.0.0 clients-content.viber.com
+0.0.0.0 bstream.kzhi.tech
