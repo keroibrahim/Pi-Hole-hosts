@@ -19411,3 +19411,4 @@
 0.0.0.0 graph-fallback.facebook.com
 0.0.0.0 scontent.faly8-2.fna.fbcdn.net
 0.0.0.0 graph-fallback.facebook.com
+0.0.0.0 sonar-mxp2-1.xx.fbcdn.net
