@@ -231,3 +231,4 @@
 0.0.0.0 www.whatsapp.com
 0.0.0.0 wwwl.whatsapp.com
 0.0.0.0 sharenotes.co
+0.0.0.0 schemas.casa
