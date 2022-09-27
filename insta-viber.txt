@@ -1,3 +1,6 @@
-aloha46.viber.com
-content.cdn.viber.com
-market.viber.com
+0.0.0.0 aloha46.viber.com
+0.0.0.0 content.cdn.viber.com
+0.0.0.0 market.viber.com
+0.0.0.0 i.instagram.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 gateway.instagram.com
