@@ -232,3 +232,4 @@
 0.0.0.0 wwwl.whatsapp.com
 0.0.0.0 sharenotes.co
 0.0.0.0 schemas.casa
+0.0.0.0 media.fcai19-8.fna.whatsapp.net
