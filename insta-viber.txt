@@ -1,4 +1,5 @@
 0.0.0.0 aloha46.viber.com
+0.0.0.0 abtest.api.viber.com
 0.0.0.0 content.cdn.viber.com
 0.0.0.0 market.viber.com
 0.0.0.0 i.instagram.com
