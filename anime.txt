@@ -1,3 +1,4 @@
 0.0.0.0 v.xsanime.com
 0.0.0.0 animeblkom.net
 0.0.0.0 xsanime.disqus.com
+0.0.0.0 witanime.com
