@@ -106,5 +106,8 @@
 0.0.0.0 r20---sn-uhvcpax0n5-v53e.googlevideo.com
 0.0.0.0 r6.sn-uhvcpax0n5-a5ne.googlevideo.com
 0.0.0.0 r6.sn-uhvcpax0n5-no5s.googlevideo.com
-0.0.0.0 i.ytimg.com	
+0.0.0.0 rr3---sn-uxaxjvhxbt2u-5aty.googlevideo.com	
+0.0.0.0 rr1---sn-uxaxjvhxbt2u-5aty.googlevideo.com
+0.0.0.0 rr5---sn-uxaxjvhxbt2u-5aty.googlevideo.com
+0.0.0.0 i.ytimg.com
 0.0.0.0 yt3.ggpht.com
