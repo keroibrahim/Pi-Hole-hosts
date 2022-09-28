@@ -24,3 +24,4 @@
 0.0.0.0 vidhd.site
 0.0.0.0 vidhd.fun
 0.0.0.0 tuktukcinema.co
+0.0.0.0 pr2.gemzawy.com
