@@ -18,7 +18,7 @@ youtu.be
 youtube-ui.l.google.com
 ytimg.com
 ## Regex
-r[0-9]+---[a-z]+-+[a-z0-9-]+\\.googlevideo\\.com
+rr[0-9]+---[a-z]+-+[a-z0-9-]+\\.googlevideo\\.com
 # BLOCK YT SEKEDARNYA
 googlevideo.com
 youtube-ui.l.google.com
