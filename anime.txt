@@ -11,3 +11,7 @@
 0.0.0.0 ok.ru
 0.0.0.0 img.anslayer.com
 0.0.0.0 anslayer.com
+0.0.0.0 subscene.com
+0.0.0.0 i.jeded.com
+0.0.0.0 image.tmdb.org
+0.0.0.0 widget.watchmondo.com
