@@ -2,7 +2,6 @@
 i.ytimg.com
 i1.ytimg.com
 manifest.googlevideo.com
-redirector.googlevideo.com
 s.youtube.com
 s.ytimg.com
 s2.youtube.com
@@ -10,7 +9,6 @@ www.youtube-nocookie.com
 youtu.be
 youtube-nocookie.com
 yt3.ggpht.com
-
 # BLACKLIST (Add to)
 ## Wildcard
 ggpht.com
@@ -21,11 +19,9 @@ youtube-ui.l.google.com
 ytimg.com
 ## Regex
 r[0-9]+---[a-z]+-+[a-z0-9-]+\\.googlevideo\\.com
-
 # BLOCK YT SEKEDARNYA
 googlevideo.com
 youtube-ui.l.google.com
-
 # BLOCK YT ANDROID
 googlevideo.com
 youtube-ui.l.google.com
