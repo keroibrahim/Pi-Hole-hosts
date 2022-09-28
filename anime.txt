@@ -27,3 +27,5 @@
 0.0.0.0 pr2.gemzawy.com
 0.0.0.0 anime4up.vip
 0.0.0.0 anime4up-1.disqus.com
+0.0.0.0 shahed4u.homes
+0.0.0.0 shahed4u.vip
