@@ -19413,3 +19413,7 @@
 0.0.0.0 graph-fallback.facebook.com
 0.0.0.0 sonar-mxp2-1.xx.fbcdn.net
 0.0.0.0 sonar6.xy.fbcdn.net
+0.0.0.0 external.fcai19-8.fna.fbcdn.net
+0.0.0.0 video.fcai19-8.fna.fbcdn.net
+0.0.0.0 scontent.fcai21-4.fna.fbcdn.net
+0.0.0.0 graph.fbpigeon.com
