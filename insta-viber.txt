@@ -13,3 +13,4 @@
 0.0.0.0 clients-content.viber.com
 0.0.0.0 bstream.kzhi.tech
 0.0.0.0 imo.im
+0.0.0.0 savefrom.net
