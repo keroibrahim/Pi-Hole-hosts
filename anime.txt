@@ -25,3 +25,5 @@
 0.0.0.0 vidhd.fun
 0.0.0.0 tuktukcinema.co
 0.0.0.0 pr2.gemzawy.com
+0.0.0.0 anime4up.vip
+0.0.0.0 anime4up-1.disqus.com
