@@ -23,3 +23,4 @@ googlevideo.com
 # BLOCK YT ANDROID
 googlevideo.com
 ytimg.com
+r2---sn-hgn7rn7r.googlevideo.com
