@@ -18,7 +18,6 @@ googlevideo.com
 gvt3.com
 youtu.be
 youtube-ui.l.google.com
-youtubei.googleapis.com
 ytimg.com
 ## Regex
 r[0-9]+---[a-z]+-+[a-z0-9-]+\\.googlevideo\\.com
