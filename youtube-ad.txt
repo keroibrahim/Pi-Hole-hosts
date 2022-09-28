@@ -111,3 +111,4 @@
 0.0.0.0 rr5---sn-uxaxjvhxbt2u-5aty.googlevideo.com
 0.0.0.0 i.ytimg.com
 0.0.0.0 yt3.ggpht.com
+0.0.0.0 rr[0-9]+---[a-z]+-+[a-z0-9-]+\\.googlevideo\\.com
