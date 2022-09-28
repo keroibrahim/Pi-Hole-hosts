@@ -24,6 +24,4 @@ googlevideo.com
 youtube-ui.l.google.com
 # BLOCK YT ANDROID
 googlevideo.com
-youtube-ui.l.google.com
-youtubei.googleapis.com
 ytimg.com
