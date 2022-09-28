@@ -17260,3 +17260,4 @@
 0.0.0.0 r9.sn-vgqsrnez.googlevideo.com
 0.0.0.0 i.ytimg.com	
 0.0.0.0 rr[0-9]+---[a-z]+-+[a-z0-9-]+\\.googlevideo\\.com
+0.0.0.0 yt3.ggpht.com
