@@ -46,3 +46,10 @@
 0.0.0.0 cdn.animeiat.tv
 0.0.0.0 www.mp4upload.com
 0.0.0.0 yuistream.xyz
+0.0.0.0 s5.mp4upload.com
+0.0.0.0 uptostream.com
+0.0.0.0 sponsor.ajay.app
+0.0.0.0 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
+0.0.0.0 mediafire.com
+0.0.0.0 mega.nz
+0.0.0.0 g.api.mega.co.nz
