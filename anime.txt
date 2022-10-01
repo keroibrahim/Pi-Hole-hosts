@@ -64,3 +64,4 @@
 0.0.0.0 img.doodcdn.co
 0.0.0.0 dood.so
 0.0.0.0 sgepodownload.mediatek.com
+0.0.0.0 cdn2.vid4up.xyz
