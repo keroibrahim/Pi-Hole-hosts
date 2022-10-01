@@ -53,3 +53,14 @@
 0.0.0.0 mediafire.com
 0.0.0.0 mega.nz
 0.0.0.0 g.api.mega.co.nz
+0.0.0.0 www.themoviedb.org
+0.0.0.0 api.animeiat.co
+0.0.0.0 i.doodcdn.co
+0.0.0.0 www.animeiat.tv
+0.0.0.0 cdn.animeiat.tv
+0.0.0.0 yonaplay.org
+0.0.0.0 tzegilo.com
+0.0.0.0 dw120l.dood.video
+0.0.0.0 img.doodcdn.co
+0.0.0.0 dood.so
+0.0.0.0 sgepodownload.mediatek.com
