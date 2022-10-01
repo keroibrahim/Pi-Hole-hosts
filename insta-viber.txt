@@ -14,3 +14,4 @@
 0.0.0.0 bstream.kzhi.tech
 0.0.0.0 imo.im
 0.0.0.0 savefrom.net
+0.0.0.0 scontent.cdninstagram.com
