@@ -1,0 +1,7 @@
+0.0.0.0 vue.dynatrace.vodafone.com.eg
+0.0.0.0 web.vodafone.com.eg
+0.0.0.0 mobile.vodafone.com.eg
+0.0.0.0 vodafoneeg.sc.omtrdc.net
+0.0.0.0 eg.vodafone.rcs.telephony.goog
+0.0.0.0 _sips._tcp.eg.vodafone.rcs.telephony.goog
+0.0.0.0 speedtest6.vodafone.com.eg.prod.hosts.ooklaserver.net
