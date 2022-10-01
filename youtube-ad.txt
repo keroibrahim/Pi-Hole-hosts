@@ -137,3 +137,6 @@
 0.0.0.0 youtube-ui.l.google.com
 0.0.0.0 youtubei.googleapis.com
 0.0.0.0 ytimg.com
+0.0.0.0 rr2---sn-8vq54voxxb-j5pel.googlevideo.com
+0.0.0.0 rr3---sn-hpa7kn7e.googlevideo.com	
+0.0.0.0 rr2---sn-hgn7rn7k.googlevideo.com
