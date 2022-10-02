@@ -65,3 +65,5 @@
 0.0.0.0 dood.so
 0.0.0.0 sgepodownload.mediatek.com
 0.0.0.0 cdn2.vid4up.xyz
+0.0.0.0 akamai-images-content.com
+0.0.0.0 delivery152.akamai-cdn-content.com
