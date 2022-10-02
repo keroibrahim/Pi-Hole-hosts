@@ -148,3 +148,5 @@
 0.0.0.0 rr1---sn-25ge7nzk.googlevideo.com
 0.0.0.0 rr5---sn-hgn7yn7e.googlevideo.com
 0.0.0.0 rr5---sn-25glenlk.googlevideo.com
+0.0.0.0 r1---sn-hgn7rn7k.googlevideo.com
+0.0.0.0 r5---sn-25ge7nzd.googlevideo.com
