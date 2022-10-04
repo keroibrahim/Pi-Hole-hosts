@@ -67,3 +67,8 @@
 0.0.0.0 cdn2.vid4up.xyz
 0.0.0.0 akamai-images-content.com
 0.0.0.0 delivery152.akamai-cdn-content.com
+0.0.0.0 cdn3.vid4up.xyz
+0.0.0.0 cdn4.vid4up.xyz
+0.0.0.0 216.58.202.4.in-addr.arpa
+0.0.0.0 sinceresubstance.com
+0.0.0.0 ws-eu.pusher.com
