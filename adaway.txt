@@ -153,10 +153,6 @@
 0.0.0.0 js.usemessages.com
 0.0.0.0 openeducationanalytics.org
 0.0.0.0 accessibilityinsights.io
-0.0.0.0 static-eu.payments-amazon.com
-0.0.0.0 static.payments-amazon.com
-0.0.0.0 payments-*.amazon.com
-0.0.0.0 payments.amazon.com
 0.0.0.0 pndsn.com
 0.0.0.0 files.acrobat.com
 0.0.0.0 createpdf.acrobat.com
@@ -196,7 +192,6 @@
 0.0.0.0 *-gdprlock
 0.0.0.0 csp.mbank.pl
 0.0.0.0 privacywall.org
-0.0.0.0 *.privacy-mgmt.com
 0.0.0.0 privacy-mgmt.com
 0.0.0.0 cmp.politico.eu
 0.0.0.0 cookie.vpro.nl
@@ -328,7 +323,6 @@
 0.0.0.0 addevweb.com
 0.0.0.0 savemysales.co
 0.0.0.0 xspdf.com
-0.0.0.0 admob-app-id-*.firebaseio.com
 0.0.0.0 mobilenations.com
 0.0.0.0 pzz.io
 0.0.0.0 linkpizza.com
@@ -594,7 +588,6 @@
 0.0.0.0 sentry.openbook.social
 0.0.0.0 sentry.svc.tfw.io
 0.0.0.0 sentry.lbry.tech
-0.0.0.0 wms*.zoho.eu
 0.0.0.0 workdrive.zoho.eu
 0.0.0.0 contacts.zoho.eu
 0.0.0.0 phonebridge.zoho.eu
@@ -5157,7 +5150,6 @@
 0.0.0.0 banners.mobile.yandex.net
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 xmode.io
-0.0.0.0 wootric.com.herokudns.com,wootric.com
 0.0.0.0 map.qq.com
 0.0.0.0 webtrends.com
 0.0.0.0 webtrekk.com
