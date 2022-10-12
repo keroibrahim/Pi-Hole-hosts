@@ -72,3 +72,5 @@
 0.0.0.0 216.58.202.4.in-addr.arpa
 0.0.0.0 sinceresubstance.com
 0.0.0.0 ws-eu.pusher.com
+0.0.0.0 animesilver-com.disqus.com
+0.0.0.0 www.animesilver.com
