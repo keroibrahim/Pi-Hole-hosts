@@ -22701,3 +22701,5 @@ ref.php
 0.0.0.0 v.trackidea.xyz
 0.0.0.0 ww1.itshd.life
 0.0.0.0 c.m2track.co
+0.0.0.0 sfepodownload.mediatek.com
+0.0.0.0 samsungnewsapi.picks.my
