@@ -1935,7 +1935,6 @@
 0.0.0.0 parse.ly
 0.0.0.0 1plusx.com
 0.0.0.0 speedcurve.com
-0.0.0.0 graph.facebook.com
 0.0.0.0 analytics.gigyahosting1.com
 0.0.0.0 gigcount.com
 0.0.0.0 bidswitch.net
