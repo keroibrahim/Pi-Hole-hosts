@@ -22697,3 +22697,7 @@ ref.php
 0.0.0.0 zucks.net
 0.0.0.0 zwaar.org
 0.0.0.0 log-collector.svctr.zynga.com
+0.0.0.0 moneysurveytoday.top
+0.0.0.0 v.trackidea.xyz
+0.0.0.0 ww1.itshd.life
+0.0.0.0 c.m2track.co
