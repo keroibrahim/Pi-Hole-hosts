@@ -79,3 +79,6 @@
 0.0.0.0 cdn.streamroot.io
 0.0.0.0 animeblkom.net
 0.0.0.0 animelek.me
+0.0.0.0 marinegruffexpecting.com
+0.0.0.0 gvadz.click
+0.0.0.0 cima-club.one
