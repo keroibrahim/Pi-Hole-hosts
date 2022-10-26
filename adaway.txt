@@ -22704,3 +22704,7 @@ ref.php
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 config-api.internet.apps.samsung.com	
+0.0.0.0 eight3app.xyz
+0.0.0.0 fckmnk.com
+0.0.0.0 flerap.com
+0.0.0.0 ggltrck.com
