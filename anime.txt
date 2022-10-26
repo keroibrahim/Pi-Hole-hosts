@@ -82,3 +82,7 @@
 0.0.0.0 marinegruffexpecting.com
 0.0.0.0 gvadz.click
 0.0.0.0 cima-club.one
+0.0.0.0 skyvids.cyou
+0.0.0.0 sdanime.com
+0.0.0.0 manga.tokyo
+0.0.0.0 cima-club.cam
