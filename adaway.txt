@@ -22700,3 +22700,7 @@ ref.php
 0.0.0.0 c.m2track.co
 0.0.0.0 sfepodownload.mediatek.com
 0.0.0.0 samsungnewsapi.picks.my
+0.0.0.0 sia.internet.apps.samsung.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 config-api.internet.apps.samsung.com	
