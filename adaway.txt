@@ -5828,7 +5828,6 @@
 0.0.0.0 media-lab.ai
 0.0.0.0 t.imgur.com
 0.0.0.0 click.email.vimeo.com
-tracking_pixel
 0.0.0.0 t.lenovo.com
 0.0.0.0 porjs.com
 0.0.0.0 cdn.pickystory.com
@@ -13860,7 +13859,6 @@ event.gif
 0.0.0.0 i.umami.is
 0.0.0.0 umami.is
 0.0.0.0 events.streetwriters.co
-sentry-file-uploader
 0.0.0.0 cpxl.golem.de
 0.0.0.0 tracker.remp-beam.golem.de
 0.0.0.0 remp-beam.golem.de
