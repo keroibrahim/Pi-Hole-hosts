@@ -87,3 +87,13 @@
 0.0.0.0 manga.tokyo
 0.0.0.0 cima-club.cam
 0.0.0.0 config-api.internet.apps.samsung.com
+0.0.0.0 c.animelek.tv
+0.0.0.0 animefuji.disqus.com
+0.0.0.0 c.gateanime.cam
+0.0.0.0 myanimelist.net
+0.0.0.0 a.animelek.tv
+0.0.0.0 animefuji.com
+0.0.0.0 cdn.myanimelist.net
+0.0.0.0 arabanime.net
+0.0.0.0 anime-time.co
+0.0.0.0 packanime.com
