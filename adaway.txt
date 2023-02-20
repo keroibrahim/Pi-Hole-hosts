@@ -6108,7 +6108,6 @@ tracking_pixel
 0.0.0.0 gentags.net
 0.0.0.0 gepush.com
 0.0.0.0 getui.com
-0.0.0.0 go-mpulse
 0.0.0.0 godloveme.cn
 0.0.0.0 gridsum.com
 0.0.0.0 gridsumdissector.cn
@@ -6888,7 +6887,6 @@ tracking_pixel
 0.0.0.0 logger.qingting.fm
 0.0.0.0 s.qd.qingting.fm
 0.0.0.0 s.qd.qingtingfm.com
-0.0.0.0 omgmtaw
 0.0.0.0 adsmind.apdcdn.tc.qq.com
 0.0.0.0 adsmind.gdtimg.com
 0.0.0.0 adsmind.tc.qq.com
@@ -11099,7 +11097,6 @@ event.gif
 0.0.0.0 generalmobi.com
 0.0.0.0 evrythng.com
 0.0.0.0 jnn-pa.googleapis.com
-0.0.0.0 0.0.0.1
 0.0.0.0 0033000.com
 0.0.0.0 0318media.nl
 0.0.0.0 083950260099-attachments.s3.us-east-2.amazonaws.com
@@ -11156,7 +11153,6 @@ event.gif
 0.0.0.0 123stat.com
 0.0.0.0 1240611520.rsc.cdn77.org
 0.0.0.0 126.net
-0.0.0.0 127.0.0.1
 0.0.0.0 127.net
 0.0.0.0 1287719000.rsc.cdn77.org
 0.0.0.0 128dagwixzkuuk9y3guyf7fd-wpengine.netdna-ssl.com
@@ -14958,7 +14954,6 @@ ref.php
 0.0.0.0 mail2.instantcrush.nl
 0.0.0.0 goedbegin.be
 0.0.0.0 jougids.nl
-0.0.0.0 Newsletterails..com.
 0.0.0.0 rfmquwxods.au
 0.0.0.0 cartrawler.com
 0.0.0.0 sp.booking.com
