@@ -386,3 +386,4 @@
 0.0.0.0 zerorate.api.viber.com
 0.0.0.0 zerorate.viber.com
 0.0.0.0 zoho.viber.com
+0.0.0.0 socks.imolive2.com
