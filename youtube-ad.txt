@@ -108,7 +108,6 @@
 0.0.0.0 r6.sn-uhvcpax0n5-no5s.googlevideo.com
 0.0.0.0 rr1---sn-uxaxjvhxbt2u-5aty.googlevideo.com
 0.0.0.0 rr5---sn-uxaxjvhxbt2u-5aty.googlevideo.com
-0.0.0.0 rr[0-9]+---[a-z]+-+[a-z0-9-]+\\.googlevideo\\.com
 0.0.0.0 rr2---sn-uxaxjvhxbt2u-5aty.googlevideo.com
 0.0.0.0 suggestqueries.google.com
 0.0.0.0 rr4---sn-uxaxjvhxbt2u-5aty.googlevideo.com
@@ -132,7 +131,6 @@
 0.0.0.0 ggpht.com
 0.0.0.0 gvt3.com
 0.0.0.0 youtu.be
-0.0.0.0 r[0-9]+---[a-z]+-+[a-z0-9-]+\\.googlevideo\\.com
 0.0.0.0 googlevideo.com
 0.0.0.0 youtube-ui.l.google.com
 0.0.0.0 youtubei.googleapis.com
