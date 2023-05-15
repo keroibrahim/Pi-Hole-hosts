@@ -1,0 +1,5 @@
+firebaselogging-pa.googleapis.com
+sentry.thndr.app
+thndr-api.firebaseio.com
+appversionproxy.bugsjoy-thndr.workers.dev
+prod.thndr.app
