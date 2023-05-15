@@ -5,3 +5,4 @@ appversionproxy.bugsjoy-thndr.workers.dev
 prod.thndr.app
 firebaselogging-pa.googleapis.com
 thndr.app
+unleash.thndr.app
