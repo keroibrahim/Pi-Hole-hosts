@@ -97,3 +97,4 @@
 0.0.0.0 arabanime.net
 0.0.0.0 anime-time.co
 0.0.0.0 packanime.com
+0.0.0.0 w.app-mo.com
