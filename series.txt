@@ -16,3 +16,7 @@
 0.0.0.0 lo.allviids.xyz
 0.0.0.0 tvline.com
 0.0.0.0 allviid.xyz
+0.0.0.0 m.3isk.video
+0.0.0.0 ma.eshq.news
+0.0.0.0 ka.eshq.news
+0.0.0.0 ia.eshq.news
