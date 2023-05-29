@@ -12,4 +12,7 @@
 0.0.0.0 es.3esk.co
 0.0.0.0 esheeq.onl
 0.0.0.0 3eskk.com
-0.0.0.0 v.isheeq.com
+0.0.0.0 ac.fosta-tv.net
+0.0.0.0 lo.allviids.xyz
+0.0.0.0 tvline.com
+0.0.0.0 allviid.xyz
