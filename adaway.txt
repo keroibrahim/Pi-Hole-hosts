@@ -5,6 +5,11 @@
 0.0.0.0 statslogger.rocket.persgroep.cloud
 0.0.0.0 statistiek.digid.nl
 0.0.0.0 statistieken.groenlinks.nl
+0.0.0.0 adx.ads.vungle.com	
+0.0.0.0 ads.api.vungle.com	
+0.0.0.0 brahe.apptimize.com	
+0.0.0.0 ads-segment-profile-noneu.truecaller.com	
+0.0.0.0 jyxfu.ourmarketingefi.info	
 0.0.0.0 stats.duo.rijkscloud.nl
 0.0.0.0 analytics.partijvoordedieren.nl
 0.0.0.0 statistiek.mijn.overheid.nl
