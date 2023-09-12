@@ -7,6 +7,7 @@
 0.0.0.0 0-edge-chat.facebook.com
 0.0.0.0 0-edge-chat.messenger.com
 0.0.0.0 0-undefined.messenger.com
+0.0.0.0 b-graph-fallback.facebook.com	
 0.0.0.0 0.beta.facebook.com
 0.0.0.0 0.facebook.com
 0.0.0.0 0.fb.me
