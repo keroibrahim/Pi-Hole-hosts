@@ -6,3 +6,11 @@ prod.thndr.app
 firebaselogging-pa.googleapis.com
 thndr.app
 unleash.thndr.app
+thndrclaps.thndr.app
+horizon-brokerage.com	
+events.newsroom.bi	
+content.almalnews.com	
+mubasher.info
+www.team-stocks.com	
+uwf.tadawul.com.sa	
+almalnews.com	
