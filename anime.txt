@@ -20,6 +20,7 @@
 0.0.0.0 w.tuktukcinema.net
 0.0.0.0 moshahda.net
 0.0.0.0 e.aflam.tube
+0.0.0.0 skyvids.cyou	
 0.0.0.0 lurgaimt.net
 0.0.0.0 vidhd.site
 0.0.0.0 vidhd.fun
