@@ -88,6 +88,10 @@
 0.0.0.0 cima-club.cam
 0.0.0.0 config-api.internet.apps.samsung.com
 0.0.0.0 c.animelek.tv
+0.0.0.0 216.58.202.4.in-addr.arpa	
+0.0.0.0 anslayer.com	
+0.0.0.0 mixdrop.co	
+0.0.0.0 skyvids.cyou
 0.0.0.0 animefuji.disqus.com
 0.0.0.0 c.gateanime.cam
 0.0.0.0 myanimelist.net
