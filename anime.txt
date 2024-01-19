@@ -4,7 +4,7 @@
 0.0.0.0 qs4.anim4de.store
 0.0.0.0 oe.anim4az.store
 0.0.0.0 doh.opendns.com
-0.0.0.0 doh.opendns.com
+0.0.0.0 chrome.cloudflare-dns.com
 0.0.0.0 anime4up-cam.disqus.com
 0.0.0.0 v.xsanime.com
 0.0.0.0 animeblkom.net
