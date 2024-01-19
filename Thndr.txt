@@ -16,3 +16,4 @@ uwf.tadawul.com.sa
 almalnews.com
 chrome.cloudflare-dns.com
 doh.opendns.com
+dns.google
