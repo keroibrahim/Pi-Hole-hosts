@@ -1,3 +1,4 @@
+0.0.0.0 onesignal.com
 0.0.0.0 x.xsanime.com
 0.0.0.0 web2.topcinema.top
 0.0.0.0 anime4up.cam
