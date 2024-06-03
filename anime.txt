@@ -113,3 +113,10 @@
 0.0.0.0 anime-time.co
 0.0.0.0 packanime.com
 0.0.0.0 w.app-mo.com
+0.0.0.0 w27.my-cima.net
+0.0.0.0 player-telemetry.vimeo.com
+0.0.0.0 83vod-adaptive.akamaized.net
+0.0.0.0 fresnel.vimeocdn.com
+0.0.0.0 vk.com
+0.0.0.0 gcdn.shahid.net
+0.0.0.0 g.laroza.net
