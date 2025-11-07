@@ -236,5 +236,5 @@
 0.0.0.0 www.whatsapp.com
 0.0.0.0 www.xl.whatsapp.com
 0.0.0.0 wwwl.whatsapp.com
-0.0.0.0.0 wa.me
+0.0.0.0 wa.me
 0.0.0.0 g-fallback.whatsapp.net
