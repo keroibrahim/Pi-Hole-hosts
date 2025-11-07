@@ -120,3 +120,9 @@
 0.0.0.0 vk.com
 0.0.0.0 gcdn.shahid.net
 0.0.0.0 g.laroza.net
+0.0.0.0 api.mycdn.me
+0.0.0.0 barcy.club
+0.0.0.0 vkvd1.mycdn.me
+0.0.0.0 d.barcy.club
+0.0.0.0 aae.dramacafe-tv.com
+0.0.0.0 dc15.dramacafe-tv.biz
